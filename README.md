@@ -1,3 +1,5 @@
+https://jonasdamaia.github.io/jogo_forca/
+
 Jogo da Forca Brasileiro
 
 Um jogo da forca moderno, interativo e responsivo, desenvolvido com foco em palavras e expressões da cultura, culinária, fauna, folclore e cotidiano do Brasil (estritamente sem acentuação).
