@@ -24,4 +24,5 @@ Jogo da forca em português do Brasil, feito com HTML, Tailwind CSS e JavaScript
 5. Clique em Nova Palavra para começar outra rodada.
    
 🚀 Executando localmente
+
 Não há dependências nem etapa de build.
