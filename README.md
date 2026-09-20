@@ -15,7 +15,8 @@ Jogo da forca em português do Brasil, feito com HTML, Tailwind CSS e JavaScript
 * Efeitos sonoros gerados pela Web Audio API (sem arquivos de áudio), com opção de ligar e desligar
 * Layout responsivo, pensado para celular e desktop, com tema escuro
 * A palavra sempre cabe em uma única linha: o tamanho das letras se ajusta ao comprimento
-* 
+
+
 🕹️ Como jogar
 1. Leia a categoria e a dica no painel à esquerda.
 2. Escolha letras no teclado da tela ou no teclado do computador.
