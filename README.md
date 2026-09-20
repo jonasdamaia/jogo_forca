@@ -4,7 +4,7 @@ Your site is live at https://jonasdamaia.github.io/jogo_forca/
 
 Jogo da forca em português do Brasil, feito com HTML, Tailwind CSS e JavaScript puro, em um único arquivo. Mais de 1.800 palavras, cada uma com categoria e dica, todas sem acentuação para facilitar a jogabilidade.
 
-▶️ Jogar agora
+▶️ [Jogar agora](https://jonasdamaia.github.io/jogo_forca/)
 
 ✨ Funcionalidades
 +1.800 palavras distribuídas em dezenas de categorias (Frutas, Animais, Profissões, Geografia, Tecnologia, Esportes, Sentimentos e muito mais)
