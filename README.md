@@ -1,4 +1,4 @@
-## 🎯 Jogo da Forca
+## JOGO DA FORCA
 
 Jogo da forca em português do Brasil, feito com HTML, Tailwind CSS e JavaScript puro, em um único arquivo. Mais de 1.800 palavras, cada uma com categoria e dica, todas sem acentuação para facilitar a jogabilidade.
 
